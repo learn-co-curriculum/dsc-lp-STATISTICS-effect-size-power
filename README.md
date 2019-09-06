@@ -18,7 +18,8 @@ hidden: true
 ***
 
 #### Lesson Summary:
-builds upon students knowledge of conditional probability and covers Bayes theorem as well as the naive Bayes algorithm. 
+
+This lesson deepens students knowledge of effect size and power. They should have already read and engaged with materials regarding effect size and power previously and should also have multiple exposures to z-tests, t-tests and formulating hypothesis tests. During the lesson, students compare and contrast the relationship between effect size and power from multiple perspectives. Effect size and cohen's d are reviewed first. This includes visualizing the overlap of distributions for various effect sizes. From there, power and its relationship to effect size and sample size is investigated through plots. Finally, a case study is presented to give a hands on example.  
 
 #### Topic:
 
