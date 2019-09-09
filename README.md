@@ -23,8 +23,7 @@ This lesson deepens students knowledge of effect size and power. They should hav
 
 #### Topic:
 
-Statistics: Bayes theorem
-
+Statistics: Effect Size and Power
 
 #### Prerequisite knowledge:
 
